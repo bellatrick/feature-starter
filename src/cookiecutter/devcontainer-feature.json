@@ -1,6 +1,6 @@
 {
     "name": "Cookiecutter data science",
-    "id": "cookiecutter v1",
+    "id": "cookiecutter",
     "version": "1.0.0",
     "description": "Installs Cookiecutter, a command-line utility that creates projects from project templates.",
     "installsAfter": [
